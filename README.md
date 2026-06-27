@@ -5,7 +5,7 @@
 
 This project focuses on analyzing employee attrition data and creating an interactive dashboard using **Microsoft Power BI**. The dashboard provides insights into employee turnover by visualizing key HR metrics such as attrition rate, department-wise attrition, business travel impact, education field distribution, and age group analysis.
 
----
+
 
 ## Tools Used
 
@@ -44,7 +44,7 @@ The project uses the **IBM HR Employee Attrition Dataset** to analyze employee t
 - **Task3(2).png** – Attrition Analysis Screenshot
 - **Task3(3).png** – Department & Business Travel Analysis Screenshot
 
----
+
 
 ## Learning Outcomes
 
@@ -64,7 +64,7 @@ Through this project, I learned:
 
 **Nowfi Fathima A**
 
----
+
 
 ## GitHub Repository
 
